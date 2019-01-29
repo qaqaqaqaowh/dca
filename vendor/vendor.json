@@ -57,6 +57,12 @@
 			"comment": "v5.9.1",
 			"path": "gopkg.in/bluesuncorp/validator.v5",
 			"revision": "d627af88ac021317a280d320986282a6dc97549a"
+		},
+		{
+			"checksumSHA1": "92f8qcnb75V+4hcwKMSTqb9Aqq0=",
+			"path": "layeh.com/gopus",
+			"revision": "0ebf989153aa016ef5e77141b08c48e48a79312e",
+			"revisionTime": "2016-12-24T16:38:43Z"
 		}
 	],
 	"rootPath": "github.com/heroku/go-getting-started"
